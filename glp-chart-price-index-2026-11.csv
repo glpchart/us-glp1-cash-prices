@@ -1,0 +1,6 @@
+program,drug,form,monthly_price_usd,plan,last_verified,source_url
+All tracked programs,all,all,299,"Median all-in cash price, October 2026",2026-11-07,https://glpchart.com/price-index/2026-11/
+Collective,semaglutide,compounded,59,"Cheapest verified compounded semaglutide route, October 2026",2026-11-07,https://www.collective.org/
+Knownwell,branded,branded,299,"Cheapest verified branded route, October 2026",2026-11-07,https://www.knownwell.co/weight-loss-medication-pricing
+Sam's Club Member Health,Wegovy,branded,299,"Cheapest verified cash price for Wegovy, October 2026",2026-11-07,https://www.samsclub.com/cp/glp-1-support/13820161
+Ro Body,Zepbound,branded,449,"Cheapest verified cash price for Zepbound, October 2026",2026-11-07,https://ro.co/weight-loss/pricing/

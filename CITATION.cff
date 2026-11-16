@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "GLP Chart US GLP-1 Cash Prices"
+authors:
+  - family-names: Samaras
+    given-names: John
+    affiliation: GLP Chart
+doi: 10.5281/zenodo.24245067
+url: "https://glpchart.com/data/"
+repository-code: "https://github.com/glpchart/us-glp1-cash-prices"
+license: CC-BY-4.0
+version: "2026-11"
+date-released: "2026-11-15"
+keywords:
+  - GLP-1
+  - semaglutide
+  - tirzepatide
+  - drug prices
+  - health economics
+  - United States
+abstract: "Weekly cash prices for semaglutide and tirzepatide (brand and compounded) from US online programs, May 2026 onward, read from each program's own pricing page."
